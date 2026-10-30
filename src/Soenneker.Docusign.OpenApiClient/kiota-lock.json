@@ -2,7 +2,7 @@
   "descriptionHash": "6F3F168BC7670535F32CED164D08C9FF3C1C6F248DD1A0AD94F26978DEEA013C34A4CA3B8F900937D47A85DCA7CC07BA72A9D370D08FED876C3B0A4EB768BFB7",
   "descriptionLocation": "../../openapi.json",
   "lockFileVersion": "1.0.0",
-  "kiotaVersion": "1.36.1",
+  "kiotaVersion": "1.37.0",
   "clientClassName": "DocusignOpenApiClient",
   "typeAccessModifier": "Public",
   "clientNamespaceName": "Soenneker.Docusign.OpenApiClient",
